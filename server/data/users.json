@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@enggconsult.co.tz",
+    "password": "$2a$10$/j/eD7bw/La6QsspiY.R2OnDbeiyOGAkraA5trcLO3mlBvv03EyAa",
+    "role": "admin"
+  }
+]
