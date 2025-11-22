@@ -1,6 +1,6 @@
 # ENGG CONSULT Website
 
-A fully functional website for ENGG CONSULT Engineering Consulting Firm with both frontend and backend systems.
+A fully functional website for EliTechWiz  Firm with both frontend and backend systems.
 
 ## Features
 
