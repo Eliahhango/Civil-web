@@ -1,4 +1,4 @@
-# ENGG CONSULT Website
+# EliTechWiz Website
 
 A fully functional website for EliTechWiz  Firm with both frontend and backend systems.
 
